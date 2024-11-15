@@ -1,0 +1,33 @@
+.p1{
+    text-decoration: overline;
+}
+.p2{
+    text-decoration: underline;
+}
+.p3{
+    text-decoration: line-through;
+}
+.p4{
+    text-decoration: overline underline;
+}
+.a1{
+    text-transform: capitalize ;
+}
+.a2{
+    text-transform: lowercase;
+}
+.a3{
+    text-transform: uppercase ;
+}
+.transform{
+    transform: rotate(-7deg);
+}
+.b1{
+    text-shadow: 2px 4px 5px green ;
+}
+.box-shadow{
+    box-shadow: 2px 2px 5px green ;
+}
+.c1{
+    text-indent: 100px  ;
+}
