@@ -1,0 +1,16 @@
+/*Attribute Selector*/
+a{
+    color: royalblue;
+    text-decoration: none;
+}
+a:hover{
+    color: green;
+}
+/*Child Selector*/
+ul >li :hover{
+    color: azure;
+}
+ul li :nth-child(3) {
+    color: blue;
+}
+p
