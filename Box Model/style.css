@@ -1,0 +1,15 @@
+.par1{
+    width: 500px;
+    height: 100px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.par2{
+    background-color: blue;
+    width: 500px;
+    height: 50px;
+    padding: 23px;
+    margin: 50px;
+    border: 5px solid red;
+}
